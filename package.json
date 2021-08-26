@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-jest-react",
+  "version": "1.0.0",
+  "description": "Testing con jest en react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
